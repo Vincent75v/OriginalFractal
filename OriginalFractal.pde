@@ -42,3 +42,4 @@ public void fract(int X, int Y, int S) {
     
   }
 }
+
